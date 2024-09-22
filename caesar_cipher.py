@@ -19,7 +19,7 @@ def caesar_decrypt(cipher_text, shift):
     return caesar_encrypt(cipher_text, -shift)
 
 # Example usage
-message = "Hello, World!"
+message = input("Enter your secret message you want to hide from your HOD😉:") #"Hello, World!"
 shift_value = 3
 
 # Encrypting the message
