@@ -76,7 +76,6 @@ displayBlockchain = () => {
     console.log("\n~~~~~~~~~~~~~######## Current state of Blockchain #########~~~~~~~~~~");
     console.log(JSON.stringify(myBlockchain, null, 4));
     console.log("~~~~~~~~~~~~~######## Current state of Blockchain End #########~~~~~~~~~~\n");
-
 }
 
 // ##################### Step 11: Set up readline interface for user input
