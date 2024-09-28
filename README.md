@@ -14,4 +14,5 @@
 Source:
 - https://cryptozombies.io/en/course/
 - https://www.coursera.org/learn/blockchain-foundations-and-use-cases
-- 
+- https://brave.com/brave-rewards/
+- Bitcoin white-paper: https://bitcoin.org/bitcoin.pdf
